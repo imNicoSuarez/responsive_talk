@@ -1,0 +1,32 @@
+
+/* Extra small devices (phones, less than 768px) */
+@media (max-width: 768px) {
+
+  .mobile svg { width: 80% }
+  .container-fluid{ margin-top: -50% }
+
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+  .mobile svg { width: 80% }
+  .container-fluid{ margin-top: -50% }
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+  .desktop svg { width: 80% }
+  .container-fluid{ margin-top: -50% }
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width:  1200px ) {
+
+  .desktop svg { width: 80% }
+  .container-fluid{ margin-top: -50% }
+
+ }
