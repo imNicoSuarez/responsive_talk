@@ -1,4 +1,9 @@
 
+
+.desktop svg { width: 80% }
+.container-fluid{ margin-top: -50% }
+
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 768px) {
 
