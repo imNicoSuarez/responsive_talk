@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="650px" height="1160px" viewBox="0 0 650 1160" enable-background="new 0 0 650 1160" xml:space="preserve">
+<g>
+	<rect x="-25" y="-6" fill="#FFFFFF" width="699" height="1173"/>
+	<text transform="matrix(1 0 0 1 108.5161 283.6128)" fill="#EF7373" font-family="'Helvetica'" font-size="90.6855">Relevante </text>
+	<g>
+		<path fill="#EF7373" d="M502,398.6c0-18.156-2.383-28.6-17.896-28.6H168.381C152.866,370,134,380.443,134,398.6v612.003
+			c0,18.164,18.866,38.397,34.381,38.397h315.723c15.514,0,17.896-20.233,17.896-38.397V398.6z M474,898.597
+			C474,914.04,473.719,932,458.217,932H196.644C181.126,932,160,914.04,160,898.597V441.702C160,426.275,181.126,425,196.644,425
+			h261.573c15.502,0,15.783,1.275,15.783,16.702V898.597z M358.021,985.622c0,15.984-11.068,28.932-24.721,28.932
+			c-13.65,0-24.705-12.947-24.705-28.932c0-15.969,11.055-28.926,24.705-28.926C346.952,956.696,358.021,969.653,358.021,985.622z
+			 M365,397.618c0,2.397,1.089,4.382-2.047,4.382h-79.594c-3.137,0-8.359-1.984-8.359-4.382v-1.734c0-2.389,5.223-3.884,8.359-3.884
+			h79.594c3.136,0,2.047,1.495,2.047,3.884V397.618z"/>
+		<rect x="173" y="438" fill="#9E9E9E" width="287" height="77"/>
+		<rect x="173" y="528" fill="#BABABA" width="287" height="165"/>
+		<g>
+			<rect x="175" y="706" fill="#C4C4C4" width="283" height="12"/>
+			<rect x="175" y="801" fill="#C4C4C4" width="283" height="14"/>
+			<rect x="175" y="738" fill="#C4C4C4" width="283" height="11"/>
+			<rect x="175" y="770" fill="#C4C4C4" width="283" height="11"/>
+			<g>
+				<rect x="175" y="889" fill="#C4C4C4" width="283" height="14"/>
+				<rect x="175" y="826" fill="#C4C4C4" width="283" height="13"/>
+				<rect x="175" y="857" fill="#C4C4C4" width="283" height="14"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

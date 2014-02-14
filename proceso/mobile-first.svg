@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1200px" height="1000px" viewBox="0 0 1200 1000" enable-background="new 0 0 1200 1000" xml:space="preserve">
+<g>
+	<rect fill="#FFFFFF" width="1200" height="1000"/>
+	<g>
+		<path fill="#86CC7A" d="M757.256,323.309c0-15.258-2.719-24.855-15.969-24.855H471.666c-13.25,0-28.564,9.598-28.564,24.855
+			v514.25c0,15.263,15.314,31.833,28.564,31.833h269.621c13.25,0,15.969-16.57,15.969-31.833V323.309z M732.674,743.443
+			c0,12.975-0.254,27.605-13.494,27.605H495.801c-13.25,0-30.842-14.631-30.842-27.605V359.527
+			c0-12.965,17.592-14.636,30.842-14.636H719.18c13.24,0,13.494,1.671,13.494,14.636V743.443z M633.615,816.568
+			c0,13.432-9.453,24.311-21.109,24.311c-11.658,0-21.1-10.879-21.1-24.311c0-13.417,9.441-24.307,21.1-24.307
+			C624.162,792.262,633.615,803.151,633.615,816.568z M639.793,322.484c0,2.013,0.711,3.285-1.965,3.285h-67.973
+			c-2.678,0-6.553-1.271-6.553-3.285v-1.458c0-2.008,3.875-3.449,6.553-3.449h67.973c2.676,0,1.965,1.441,1.965,3.449V322.484z"/>
+		<rect x="476" y="356" fill="#9E9E9E" width="244" height="64"/>
+		<rect x="476" y="425" fill="#BABABA" width="244" height="138"/>
+		<g>
+			<rect x="481" y="574" fill="#C4C4C4" width="239" height="10"/>
+			<rect x="481" y="653" fill="#C4C4C4" width="239" height="11"/>
+			<rect x="481" y="600" fill="#C4C4C4" width="239" height="11"/>
+			<rect x="481" y="627" fill="#C4C4C4" width="239" height="10"/>
+			<g>
+				<rect x="481" y="728" fill="#C4C4C4" width="239" height="10"/>
+				<rect x="481" y="675" fill="#C4C4C4" width="239" height="10"/>
+				<rect x="481" y="701" fill="#C4C4C4" width="239" height="11"/>
+			</g>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 300.4648 204.6162)" fill="#6EA7CE" font-family="'Helvetica'" font-size="116">Mobile First</text>
+</g>
+</svg>
